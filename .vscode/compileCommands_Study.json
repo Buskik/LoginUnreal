@@ -1,0 +1,26 @@
+[
+	{
+		"file": "C:\\Users\\Administrador\\Documents\\Unreal Projects\\Study\\Source\\Study\\Study.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Administrador\\Documents\\Unreal Projects\\Study\\.vscode\\compileCommands_Study\\Study.1.rsp"
+		],
+		"directory": "H:\\Epic Library\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Administrador\\Documents\\Unreal Projects\\Study\\Source\\Study\\Study.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Administrador\\Documents\\Unreal Projects\\Study\\.vscode\\compileCommands_Study\\Study.1.rsp"
+		],
+		"directory": "H:\\Epic Library\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Administrador\\Documents\\Unreal Projects\\Study\\Source\\Study\\Study.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Administrador\\Documents\\Unreal Projects\\Study\\.vscode\\compileCommands_Study\\Study.1.rsp"
+		],
+		"directory": "H:\\Epic Library\\UE_5.4\\Engine\\Source"
+	}
+]
